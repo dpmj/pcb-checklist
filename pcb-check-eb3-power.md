@@ -97,8 +97,8 @@ bending stress
 * [x] Text size within fab limits
 * [x] Text not overlapping drills or component pads
 * [x] Text removed entirely in, or moved outside of, high component/via density areas
-* [ ] Traceability markings (rev, date, name, etc) provided
-* [ ] Silkscreen box provided for writing/sticking serial number
+* [x] Traceability markings (rev, date, name, etc) provided
+* [x] Silkscreen box provided for writing/sticking serial number
 * [x] Text mirrored properly on bottom layer
 * [x] Test points labeled if space permits
 
